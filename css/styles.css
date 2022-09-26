@@ -135,7 +135,9 @@ line-height: 1.71;
     color: #FFFFFF;
     font-style: normal;
     text-decoration: none;
-}
+    font-size: 14px;
+    line-height: 1.71;
+    }
 .link-adress:hover,
 .link-adress:focus{
     color: var(--accent-color);
@@ -145,7 +147,9 @@ line-height: 1.71;
     color:rgba(255, 255, 255, 0.6);
     font-style: normal;
     text-decoration: none;
-}
+    font-size: 14px;
+    line-height: 1.71;
+     }
 .link-footer:hover,
 .link-footer:focus {
     color: var(--accent-color);
