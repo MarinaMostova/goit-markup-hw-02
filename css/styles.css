@@ -55,7 +55,7 @@ color: var(--tittle-text-color);
 .info .link:focus{
     color: var(--accent-color);
 }
-.link,{
+.link{
 text-decoration: none;
 }
 /* Hero */
